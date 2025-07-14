@@ -91,6 +91,7 @@ class hello
              System.out.println("Permutation is: "+ nCr); 
              System.out.println();
         }
+        sc.close();
     }
 
     public static int factorial(int n)
